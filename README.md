@@ -75,7 +75,7 @@ Clients aged 31-50 have no payment difficulties, though there is a slight declin
 
 Based on the table, the machine learning model that delivers the best performance is XGBoost, with cross-validation results on both train and test data showing no significant differences, indicating minimal overfitting or underfitting.
 <br>
-</p>
+
 
 ### Evaluation Model
 <p align="center">
