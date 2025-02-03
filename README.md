@@ -29,14 +29,27 @@ Building a Predictive Model to Assess Loan Repayment Risk and Boost Profitabilit
 <br>
 
 ## 📂 **Stage 1 : Exploratory Data Analysis**
-### Dataset
-- Dataset Loan 2007-2014
-- Rows : 466285
-- Columns : 75
-- Columns-Null : 40 Columns
-- Duplicates Data : 0
+### Business Insight
+- Housing Type of Clients
+<p align="center">
+<img src="https://github.com/user-attachments/assets/74705809-7685-46b8-b2e2-c66ba7a774ea"
+ alt="Proportionloan">
 </p>
 <br>
+Clients with Rented Apt and Office Apt in Region 1 have a higher risk of payment difficulties compared to Region 2, especially for medium loan amounts.
+In Region 3, Rented Apt tends to face payment difficulties.
+Office Apt in Region 3 mostly does not experience payment difficulties.
+
+- Income Type of Clients
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0c528b8d-31ea-4c0f-9f07-c699b9bb7396"
+ alt="Proportionloan">
+</p>
+<br>
+Maternity Leave: Payment difficulties are more common with cash loans than revolving loans.
+Unemployment: 50% of cash loans are problematic, while revolving loans remain stable.
+Student: All loans are performing well, with low to medium amounts.
+
 
 ## 📂 **Stage 2 : Feature Engineering**
 <p align="center">
