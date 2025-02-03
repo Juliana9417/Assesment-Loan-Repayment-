@@ -66,7 +66,11 @@ Student: All loans are performing well, with low to medium amounts.
 Clients with the highest payment difficulties are aged 20-30.
 Clients aged 31-50 have no payment difficulties, though there is a slight decline in the 41-50 age group. This indicates better and more stable repayment ability.
 </p>
+
+<p>
+<br>
 ## 📂 **Stage 2 : Building & Evalution Model**
+
 ### Building Model
 <p align="center">
 <img src="https://github.com/user-attachments/assets/54690fc3-cb4e-463e-af4c-b8dd7fcea547"
@@ -75,7 +79,6 @@ Clients aged 31-50 have no payment difficulties, though there is a slight declin
 
 Based on the table, the machine learning model that delivers the best performance is XGBoost, with cross-validation results on both train and test data showing no significant differences, indicating minimal overfitting or underfitting.
 <br>
-
 
 ### Evaluation Model
 <p align="center">
