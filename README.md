@@ -8,7 +8,7 @@ Building a Predictive Model to Assess Loan Repayment Risk and Boost Profitabilit
 ### Problem Statement
 - 8.1% of clients experience difficulties in loan repayment, while 91.9% have no issues. This presents an opportunity for the company to increase the number of clients who make timely payments while reducing repayment difficulties. This ensures safer loan distribution and has the potential to enhance profitability.
   <p align="center">
-<img src="!https://github.com/user-attachments/assets/4d96feab-b5ac-42e4-a8c4-2ee9eb8c5f34"
+<img src="https://github.com/user-attachments/assets/4d96feab-b5ac-42e4-a8c4-2ee9eb8c5f34"
  alt="MultivariateAnalysis">
 </p>
 
