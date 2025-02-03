@@ -69,7 +69,7 @@ Clients aged 31-50 have no payment difficulties, though there is a slight declin
 
 <p>
 
-## 📂 **Stage 12 : Building & Evaluation Model**
+## 📂 **Stage 2 : Building & Evaluation Model**
 
 ### Building Model
 <p align="center">
