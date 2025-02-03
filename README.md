@@ -30,6 +30,7 @@ Building a Predictive Model to Assess Loan Repayment Risk and Boost Profitabilit
 
 ## 📂 **Stage 1 : Exploratory Data Analysis**
 ### Business Insight
+<p>
 - Housing Type of Clients
 <p align="center">
 <img src="https://github.com/user-attachments/assets/74705809-7685-46b8-b2e2-c66ba7a774ea"
@@ -39,7 +40,9 @@ Building a Predictive Model to Assess Loan Repayment Risk and Boost Profitabilit
 Clients with Rented Apt and Office Apt in Region 1 have a higher risk of payment difficulties compared to Region 2, especially for medium loan amounts.
 In Region 3, Rented Apt tends to face payment difficulties.
 Office Apt in Region 3 mostly does not experience payment difficulties.
+</p>
 
+<p>
 <br>
 - Income Type of Clients
 <p align="center">
@@ -50,7 +53,9 @@ Office Apt in Region 3 mostly does not experience payment difficulties.
 Maternity Leave: Payment difficulties are more common with cash loans than revolving loans.
 Unemployment: 50% of cash loans are problematic, while revolving loans remain stable.
 Student: All loans are performing well, with low to medium amounts.
+</p>
 
+<p>
 <br>
 - Distribution Age in Target
 <p align="center">
@@ -60,7 +65,7 @@ Student: All loans are performing well, with low to medium amounts.
 <br>
 Clients with the highest payment difficulties are aged 20-30.
 Clients aged 31-50 have no payment difficulties, though there is a slight decline in the 41-50 age group. This indicates better and more stable repayment ability.
-
+</p>
 ## 📂 **Stage 2 : Building & Evalution Model**
 ### Building Model
 <p align="center">
@@ -70,6 +75,7 @@ Clients aged 31-50 have no payment difficulties, though there is a slight declin
 
 Based on the table, the machine learning model that delivers the best performance is XGBoost, with cross-validation results on both train and test data showing no significant differences, indicating minimal overfitting or underfitting.
 <br>
+</p>
 
 ### Evaluation Model
 <p align="center">
